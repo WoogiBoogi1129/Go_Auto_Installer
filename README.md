@@ -10,10 +10,10 @@ git clone https://github.com/WoogiBoogi1129/Go_Auto_Installer
 ```
 - shell 파일 실행 권한 부여
 ```sh
-chmod +x Automatically_installing_Kubernetes/k8s_auto_install.sh
+chmod +x GO_Auto_Installer/Go_Auto_Installer.sh
 ```
 
 - shell 파일 실행
 ```sh
-sudo ./Automatically_installing_Kubernetes/k8s_auto_install.sh
+sudo ./Go_Auto_Installer/Go_Auto_Installer.sh
 ```
