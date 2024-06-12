@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 # DELETE GO
 sudo apt-get purge golang*
